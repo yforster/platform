@@ -30,6 +30,7 @@ PACKAGES="${PACKAGES} coq-aac-tactics.8.12.0"
 PACKAGES="${PACKAGES} coq-mtac2.1.3+8.12"
 PACKAGES="${PACKAGES} coq-simple-io.1.3.0"
 PACKAGES="${PACKAGES} coq-quickchick.1.4.0"
+PACKAGES="${PACKAGES} coq-smpl.8.12"
 
 # Elpi, Coq-elpi and hierarchy builder
 PACKAGES="${PACKAGES} coq-elpi.1.5.1 elpi.1.11.4"
